@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Accor
+- 🔭 I’m currently working with these technologies : Java / AWS / Apache Kafka / SpringBoot
+- 🌱 I’m currently learning Apache kafka
+
 <!--
 **AAOUAD/aaouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
